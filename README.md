@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **APTECH COMPUTER EDUCATION**
 
-- 📫 How to reach me **nguyenthaihai192005@gmail.com**
+- 📫 How to reach me **nguyenthanhhai192005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
