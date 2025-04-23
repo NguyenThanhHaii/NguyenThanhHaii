@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thanh Hai</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
 
-- 🔭 I’m currently working on **Java Software**
+- 🔭 I’m currently working on **.NET Software**
 
 - 🌱 I’m currently learning **APTECH COMPUTER EDUCATION**
 
